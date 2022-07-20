@@ -15,11 +15,7 @@
    npm install
    ```
 
-3. Run the following command in the project directory to create .env file:
-
-   ```
-   cp .env.example .env
-   ```
+3. Copy the .env file sent via mail into the project's root directory:
 
 4. Run the following command to start the server:
 
